@@ -5,7 +5,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/EduardaSRBastos/repository-template?style=plastic&color=orange)](https://github.com/EduardaSRBastos/repository-template/releases)
 [![GitHub repo size](https://img.shields.io/github/repo-size/EduardaSRBastos/repository-template?style=plastic)](https://github.com/EduardaSRBastos/repository-template)
 
-<p><i>A ready-to-use GitHub template with essential resources for new projects.</i></p>
+<p><i>A structured GitHub template with essential resources for new projects.</i></p>
 
  </div>
 
