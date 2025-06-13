@@ -1,0 +1,12 @@
+:root {
+  --main-color: #ffffff;
+  --second-color: #000000;
+}
+
+html {
+  scrollbar-color: var(--second-color) var(--main-color);
+}
+
+body {
+  margin: 0;
+}
