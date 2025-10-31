@@ -65,7 +65,7 @@ You can use the following template for your project README:
   
 # Project Name
 [![GitHub License](https://img.shields.io/github/license/EduardaSRBastos/project-name?style=plastic&color=darkred)](https://github.com/EduardaSRBastos/project-name?tab=MIT-1-ov-file)
-[![GitHub Release](https://img.shields.io/github/v/release/EduardaSRBastos/project-name?style=plastic&color=orange)](https://github.com/EduardaSRBastos/repository-template/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/EduardaSRBastos/project-name?style=plastic&color=orange)](https://github.com/EduardaSRBastos/project-name/releases)
 [![GitHub branch check runs](https://img.shields.io/github/check-runs/EduardaSRBastos/project-name/main?style=plastic)](https://github.com/EduardaSRBastos/project-name/actions)
 [![GitHub repo size](https://img.shields.io/github/repo-size/EduardaSRBastos/project-name?style=plastic)](https://github.com/EduardaSRBastos/project-name)
 
