@@ -71,7 +71,7 @@ You can use the following template for your project README:
 
 <p><i>A brief description of the project.</i></p>
 
-<kbd> ![image](printscreen-image-url) </kbd>
+<kbd> ![image](assets/images/preview.png) </kbd>
 
  </div>
 
